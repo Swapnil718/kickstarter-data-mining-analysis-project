@@ -24,6 +24,22 @@ This project analyzes crowdfunding success trends by mining 70K+ Kickstarter cam
 - `README.md` – Project overview, setup, and insights.
 - `kickstarter_url.csv` – Url dataset.
 - `Output_kickstarter_data.csv` –  Sample of the cleaned Kickstarter dataset (half of full records due to GitHub's 25MB limit).
+- Column Name | Description
+title | Title of the Kickstarter campaign
+category | Category under which the campaign was listed (e.g., Tech, Art, Games)
+subcategory | More specific subcategory of the campaign
+goal_amount | Funding goal set by the project creator (in USD)
+pledged_amount | Actual amount pledged by backers
+currency | Currency used for the project (usually USD)
+launch_date | Date when the campaign was launched
+deadline | Campaign end date
+duration_days | Total number of days the campaign was live
+country | Country of the campaign creator
+state | Final campaign status (successful, failed, etc.)
+backers_count | Total number of backers who supported the campaign
+creator_name | Name of the campaign creator
+creator_url | Link to the creator’s Kickstarter profile
+campaign_url | Direct URL to the Kickstarter campaign page
 ---
 
 ## 🔍 Insights Extracted
