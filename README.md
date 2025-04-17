@@ -23,7 +23,7 @@ This project analyzes crowdfunding success trends by mining 70K+ Kickstarter cam
 - `Kickstarter_group_combined_code.ipynb` – Jupyter notebook with full scraping, cleaning, and analysis pipeline.
 - `README.md` – Project overview, setup, and insights.
 - `kickstarter_url.csv` – Url dataset.
-- `Output_kickstarter_data.csv` – Extracted and cleaned data.
+- `Output_kickstarter_data.csv` –  Sample of the cleaned Kickstarter dataset (half of full records due to GitHub's 25MB limit).
 ---
 
 ## 🔍 Insights Extracted
