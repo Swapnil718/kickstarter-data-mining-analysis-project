@@ -44,8 +44,8 @@ This project analyzes crowdfunding success trends by mining 70K+ Kickstarter cam
 
 ## 📬 Connect with Me
 
-GitHub: Swapnil718 https://github.com/Swapnil718
-LinkedIn: Swapnil Yadav https://www.linkedin.com/in/swapnil-yadav-dataanalyst/
+- `GitHub`: Swapnil718 https://github.com/Swapnil718
+- `LinkedIn`: Swapnil Yadav https://www.linkedin.com/in/swapnil-yadav-dataanalyst/
 
 ---
 
