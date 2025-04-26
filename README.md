@@ -49,4 +49,4 @@ This project analyzes crowdfunding success trends by mining 70K+ Kickstarter cam
 
 ---
 
-> ⭐ Star this repo if you found it helpful!
+> ⭐ Star this repo if you found it helpful! 
